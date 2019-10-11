@@ -6,7 +6,7 @@ Electric Go Kart
    1. 2 kw BLDC motor
    2. 48 V
    3. 110 Ah
-   4. 70kmph
+   4. 75kmph
    
     
 
