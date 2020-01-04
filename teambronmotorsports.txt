@@ -3,10 +3,10 @@
 Welcome to Team BRON Motorsports
 
 Electric Go Kart
-   1. 2 kw BLDC motor
-   2. 48 V
-   3. 110 Ah
-   4. 75kmph
+ 2 kw BLDC motor
+ 48 V
+ 110 Ah
+ 75kmph
 Lithium-ion battery
 
    
